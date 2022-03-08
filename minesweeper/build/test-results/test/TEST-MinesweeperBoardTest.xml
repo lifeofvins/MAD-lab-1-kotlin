@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MinesweeperBoardTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-03-08T08:57:59" hostname="LABINF18" time="0.053">
+  <properties/>
+  <testcase name="testInputBoardWithNoRowsAndNoColumns" classname="MinesweeperBoardTest" time="0.019"/>
+  <testcase name="testInputBoardWithSingleColumnAndTwoMinesAtEdges" classname="MinesweeperBoardTest" time="0.015"/>
+  <testcase name="testInputBoardWithSingleColumnAndTwoMines" classname="MinesweeperBoardTest" time="0.001"/>
+  <testcase name="testInputBoardWithOnlyMines" classname="MinesweeperBoardTest" time="0.002"/>
+  <testcase name="testInputBoardWithMinesInCross" classname="MinesweeperBoardTest" time="0.001"/>
+  <testcase name="testInputBoardWithMinesAroundPerimeter" classname="MinesweeperBoardTest" time="0.0"/>
+  <testcase name="testInputBoardWithSingleMineAtCenter" classname="MinesweeperBoardTest" time="0.001"/>
+  <testcase name="testInputBoardWithNoMines" classname="MinesweeperBoardTest" time="0.006"/>
+  <testcase name="testInputBoardWithOneRowAndNoColumns" classname="MinesweeperBoardTest" time="0.001"/>
+  <testcase name="testLargeInputBoard" classname="MinesweeperBoardTest" time="0.005"/>
+  <testcase name="testInputBoardWithSingleRowAndTwoMinesAtEdges" classname="MinesweeperBoardTest" time="0.0"/>
+  <testcase name="testInputBoardWithSingleRowAndTwoMines" classname="MinesweeperBoardTest" time="0.001"/>
+  <system-out><![CDATA[-1
+*
+1
+1
+0
+ 
+1
+1
+-1
+*
+1
+1
+-1
+*
+2
+2
+-1
+*
+1
+1
+-1
+*
+-1
+**
+-1
+***
+-1
+*
+-1
+**
+-1
+***
+-1
+*
+-1
+**
+-1
+***
+0
+ 
+2
+ 2
+-1
+ 2*
+2
+ 2*2
+0
+ 2*2 
+2
+2
+5
+25
+-1
+25*
+5
+25*5
+2
+25*52
+-1
+*
+-1
+**
+-1
+***
+-1
+****
+-1
+*****
+2
+2
+5
+25
+-1
+25*
+5
+25*5
+2
+25*52
+0
+ 
+2
+ 2
+-1
+ 2*
+2
+ 2*2
+0
+ 2*2 
+-1
+*
+-1
+**
+-1
+***
+-1
+*
+8
+*8
+-1
+*8*
+-1
+*
+-1
+**
+-1
+***
+1
+1
+1
+11
+1
+111
+1
+1
+-1
+1*
+1
+1*1
+1
+1
+1
+11
+1
+111
+0
+ 
+0
+  
+0
+   
+0
+ 
+0
+  
+0
+   
+0
+ 
+0
+  
+0
+   
+1
+1
+-1
+1*
+2
+1*2
+2
+1*22
+-1
+1*22*
+1
+1*22*1
+1
+1
+2
+12
+-1
+12*
+3
+12*3
+2
+12*32
+2
+12*322
+0
+ 
+1
+ 1
+2
+ 12
+3
+ 123
+-1
+ 123*
+2
+ 123*2
+1
+1
+1
+11
+2
+112
+-1
+112*
+4
+112*4
+-1
+112*4*
+1
+1
+-1
+1*
+2
+1*2
+2
+1*22
+-1
+1*22*
+2
+1*22*2
+1
+1
+1
+11
+1
+111
+1
+1111
+1
+11111
+1
+111111
+-1
+*
+1
+*1
+0
+*1 
+1
+*1 1
+-1
+*1 1*
+1
+1
+-1
+1*
+2
+1*2
+-1
+1*2*
+1
+1*2*1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
